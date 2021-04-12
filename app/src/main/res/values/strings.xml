@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Web Browser</string>
+    <string-array name="list_domain">
+        <item>.fr</item>
+        <item>.com</item>
+        <item>.org</item>
+    </string-array>
+</resources>
